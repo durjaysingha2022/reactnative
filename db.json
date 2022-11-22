@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "price": 100,
+    "discount": 13,
+    "currency": "$",
+    "name": "Samsung F 13",
+    "companyName": "Samsung",
+    "os": "Android",
+    "ram": "20 GB",
+    "image": "../images/samsungf13.jpg",
+    "detailImages": [
+      {
+        "title": "Samsung F 13",
+        "image": "../images/samsungf13_1.jpg"
+      },
+      {
+        "title": "Samsung F 13",
+        "image": "../images/samsungf13_2.jpg"
+      },
+      {
+        "title": "Samsung F 13",
+        "image": "../images/samsungf13_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 2,
+    "price": 120,
+    "discount": 15,
+    "currency": "$",
+    "name": "Samsung M 13",
+    "companyName": "Samsung",
+    "os": "Android",
+    "ram": "20 GB",
+    "image": "../images/samsungm13.jpg",
+    "detailImages": [
+      {
+        "title": "Samsung M 13",
+        "image": "../images/samsungm13_1.jpg"
+      },
+      {
+        "title": "Samsung M 13",
+        "image": "../images/samsungm13_2.jpg"
+      },
+      {
+        "title": "Samsung M 13",
+        "image": "../images/samsungm13_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 3,
+    "price": 150,
+    "discount": 17,
+    "currency": "$",
+    "name": "Samsung M 32",
+    "companyName": "Samsung",
+    "os": "Android",
+    "ram": "20 GB",
+    "image": "../images/samsungm32.jpg",
+    "detailImages": [
+      {
+        "title": "Samsung M 32",
+        "image": "../images/samsungm32_1.jpg"
+      },
+      {
+        "title": "Samsung F 32",
+        "image": "../images/samsungm32_2.jpg"
+      },
+      {
+        "title": "Samsung F 32",
+        "image": "../images/samsungm32_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 4,
+    "price": 180,
+    "discount": 17,
+    "currency": "$",
+    "name": "Samsung S 20",
+    "companyName": "Samsung",
+    "os": "Android",
+    "ram": "20 GB",
+    "image": "../images/samsungs20.jpg",
+    "detailImages": [
+      {
+        "title": "Samsung S 20",
+        "image": "../images/samsungs20_1.jpg"
+      },
+      {
+        "title": "Samsung F 32",
+        "image": "../images/samsungs20_1.jpg"
+      },
+      {
+        "title": "Samsung F 32",
+        "image": "../images/samsungs20_1.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 5,
+    "price": 200,
+    "discount": 17,
+    "currency": "$",
+    "name": "Samsung Z Flip",
+    "companyName": "Samsung",
+    "os": "Android",
+    "ram": "20 GB",
+    "image": "../images/samsungZfilp.jpg",
+    "detailImages": [
+      {
+        "title": "Samsung Z Flip",
+        "image": "../images/samsungZfilp_1.jpg"
+      },
+      {
+        "title": "Samsung Z Flip",
+        "image": "../images/samsungZfilp_2.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 6,
+    "price": 500,
+    "discount": 17,
+    "currency": "$",
+    "name": "iPhone 12",
+    "companyName": "Apple",
+    "os": "iOS",
+    "ram": "20 GB",
+    "image": "../images/iphone12.jpg",
+    "detailImages": [
+      {
+        "title": "iPhone 12",
+        "image": "../images/iphone12_1.jpg"
+      },
+      {
+        "title": "Samsung Z Flip",
+        "image": "../images/iphone12_2.jpg"
+      },
+      {
+        "title": "Samsung Z Flip",
+        "image": "../images/iphone12_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 7,
+    "price": 500,
+    "discount": 17,
+    "currency": "$",
+    "name": "iPhone 12 Black",
+    "companyName": "Apple",
+    "os": "iOS",
+    "ram": "20 GB",
+    "image": "../images/iphone12Black.jpg",
+    "detailImages": [
+      {
+        "title": "iPhone 12 Black",
+        "image": "../images/iphone12Black_1.jpg"
+      },
+      {
+        "title": "iPhone 12 Black",
+        "image": "../images/iphone12Black_2.jpg"
+      },
+      {
+        "title": "iPhone 12 Black",
+        "image": "../images/iphone12Black_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 8,
+    "price": 500,
+    "discount": 17,
+    "currency": "$",
+    "name": "iPhone 14",
+    "companyName": "Apple",
+    "os": "iOS",
+    "ram": "20 GB",
+    "image": "../images/iphone14.jpg",
+    "detailImages": [
+      {
+        "title": "iPhone 14",
+        "image": "../images/iphone14_1.jpg"
+      },
+      {
+        "title": "iPhone 14",
+        "image": "../images/iphone14_2.jpg"
+      },
+      {
+        "title": "iPhone 14",
+        "image": "../images/iphone14_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  },
+  {
+    "id": 9,
+    "price": 500,
+    "discount": 17,
+    "currency": "$",
+    "name": "iPhone 14 plus",
+    "companyName": "Apple",
+    "os": "iOS",
+    "ram": "20 GB",
+    "image": "../images/iphone14plus.jpg",
+    "detailImages": [
+      {
+        "title": "iPhone 14 plus",
+        "image": "../images/iphone14plus_1.jpg"
+      },
+      {
+        "title": "iPhone 14 plus",
+        "image": "../images/iphone14plus_2.jpg"
+      },
+      {
+        "title": "iPhone 14 plus",
+        "image": "../images/iphone14plus_3.jpg"
+      }
+    ],
+    "numbers": 1,
+    "isAddedToCart": false
+  }
+]
